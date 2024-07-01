@@ -1,132 +1,82 @@
-# All in One Accessibility™: Bludit Plugin
-All in One Accessibility AI Widget Supports 140 Languages, Screen Reader, Voice Navigation, Dictionary, Virtual Keyboard, Accessibility Profiles, Sign language Libras (Brazilian Portuguese) Custom Widget Color, Icon size, Position, GA4 Tracking and custom accessibility statement link are some of the top features.
+# All in One Accessibility™
 
-Our AI automatically remediates images Alternative text and uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your Bludit website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
-
-It improves Bludit website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, California Unruh Act, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.
-
+## Description
+All in One Accessibility AI Widget Supports 140 Languages and includes 70+ features. Screen Reader, Talk & Type, Voice Navigation, Dictionary, Virtual Keyboard, Accessibility Profiles, Sign language Libras (Brazilian Portuguese) Custom Widget Color, Icon size, Position, Talk & Type, GA4 Tracking and custom accessibility statement link are some of the top features.
+   
+Our AI automatically remediates images Alternative text and uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
+   
+It improves website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, California Unruh Act, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.
+   
 Follows the best industry security, SEO practices and standards ISO 9001:2015 & ISO 27001:2013 and complies with GDPR, COPPA regulations. Member of W3C and International Association of Accessibility Professionals (IAAP). It is a flexible & lightweight widget that can be changed according to law and reduces the risk of time-consuming accessibility lawsuits.
 
-Following features can be added as an addon
--    White Label service
--    Custom Branding
--    Live Site translates
--    Customize Accessibility Menu/widget
--    Accessibility Monitoring
--    PDF / Word Document Remediation
+Following features can be added as an addon:
+- PDF/Document Remediation
+- Modify Accessibility Menu
+- White Label and Custom Branding
+- Live Website Translations
+- VPAT / ACR Report
+- Manual Accessibility Audit
 
-## Features
-#### Skip Links
-- Skip to Menu
-- Skip to Footer
-- Skip to Navigation
-- Open Accessibility Toolbar
+For more details/features, Please visit [All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility).
 
-#### Content Adjustments
-- Content Scaling
-- Readable Fonts
-- Highlight Title
-- Highlight Links
-- Text Magnifier
-- Adjust Font Sizing
-- Adjust Line Height
-- Adjust Letter Spacing
-- Align Center
-- Align Left
-- Align Right
+## Installation
+### Prerequisites
+- Latest Bludit version
 
-#### Color and Contrast Adjustments
-- High Contrast
+### Steps
 
-#### Orientation Adjustments
-- Hide Images (Text Only)
-- Miscellaneous
-- Accessibility Statement
-- Dynamic Application Color
-- Choose Application Trigger Button Position
-- Choose Application Position
-- Multi Language
+## Install Plugin
+1. Download the zip file with the plugin from [git](https://github.com/skynettechnologies/bludit-allinoneaccessibility) or [store](https://plugins.bludit.com/plugin/bludit-allinoneaccessibility).
+2. Uncompress the zip file.
+3. Copy the plugin folder into the folder /bl-plugins/ on the server.
 
-#### Supports 140+ languages
-- English(US)
-- Italian
-- French
-- German
-- Russian
-- Spanish
-- Finnish
-- Portuguese
-- Arab
-- Polish
-- Hungarian
-- Slovak
-- Japanese
-- Turkish
-- Greek
-- Latin
-- Hebrew
-- Bulgarian
-- Catalan
-- Chinese
-- Czech
-- Danish
-- Dutch
-- Hindi
-- Indonesian
-- Korean
-- Malay
-- Norwegian
-- Romanian
-- Slovenian
-- Swedish
-- Thai
-- Ukrainian
-- Vietnamese
-- Bengali
-- Lithuanian
-- Sinhala
-- Amharic
-- Hmong
-- Burmese
-- Latvian
-- Estonian
-- Serbian
-- Portuguese (Brazil)
-- Chinese Traditional
-- Croatian
-- Georgian
-- Hawaiian
-- Welsh
-- Cebuano
-- Samoan
-- Haitian Creole
-- Faroese
-- Montenegrin
-- Australian
-- Azeri
-- Basque
-- Canada
-- Filipino
-- Galician
-- Norwegian
-- Persian
-- Punjabi
-- Spanish (Mexico)
-- English(United Kingdom)
+## Active and Configuration
+1. Go to the Admin panel, on the left sidebar go to Settings > Plugins.
+2. Look for the plugin in the list and click Activate.
+3. Go the plugin settings and configure All in One Accessibility the way you like.You can change the widget color & position. 
+   
+## Live Demo
+https://bludit.skynettechnologies.us
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/skynettechnologies/umbraco-allinoneaccessibility/main/Screenshot-3.jpg)
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-1.jpg?v=2)
 
-![App Screenshot](https://raw.githubusercontent.com/skynettechnologies/umbraco-allinoneaccessibility/main/Screenshot-1.jpg)
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-2.jpg?v=2)
 
-![App Screenshot](https://raw.githubusercontent.com/skynettechnologies/umbraco-allinoneaccessibility/main/Screenshot-2.jpg)
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-3.jpg?v=2)
 
-![App Screenshot](https://raw.githubusercontent.com/skynettechnologies/umbraco-allinoneaccessibility/main/Screenshot-4.jpg)
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-4.jpg?v=2)
+
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-5.jpg?v=2)
+
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/Screenshot-6.jpg?v=2)
 
 ## Video
 
 [![All in One Accessibility](https://img.youtube.com/vi/czwC0PKIqkc/0.jpg)](https://www.youtube.com/watch?v=czwC0PKIqkc)
 
-## Support
-For any kind of queries/support please Email us at [Skynet Technologies Support](mailto:hello@skynettechnologies.com)
+## Submit a Support Request
+
+Please visit our [support page](https://www.skynettechnologies.com/report-accessibility-problem) and fill out the form. Our team will get back to you as soon as possible.
+
+## Send Us an Email
+
+Alternatively, you can send an email to our support team:
+[hello@skynettechnologies.com](mailto:hello@skynettechnologies.com)
+
+## Partnership Opportunities
+
+#### [Agency](https://www.skynettechnologies.com/agency-partners)
+
+Partner with us as an agency to provide comprehensive accessibility solutions to your clients. Get access to exclusive resources, training, and support to help you implement and manage accessibility features effectively.
+
+#### [Affiliate](https://www.skynettechnologies.com/affiliate-partner)
+
+Join our affiliate program and earn commissions by promoting All in One Accessibility™. Share our Widget with your network and help businesses improve their website accessibility while generating revenue.
+
+For more details, Please visit [Partnership Opportunities](https://www.skynettechnologies.com/partner-program)
+
+## About
+
+This plugin is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
