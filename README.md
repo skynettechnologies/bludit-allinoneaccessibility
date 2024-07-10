@@ -20,7 +20,8 @@ For more details/features, Please visit [All in One Accessibility](https://www.s
 
 ## Installation
 ### Prerequisites
-- Latest Bludit version
+- Bludit version ^3.16
+- Supported 2.0/3.16.0 Version of Bludit
 
 ### Steps
 
