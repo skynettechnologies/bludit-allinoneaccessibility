@@ -1,24 +1,20 @@
-# All in One Accessibility™
+# All in One Accessibility™: Bludit Plugin
 
-All in One Accessibility AI Widget Supports 140 Languages and includes 70+ features. Screen Reader, Talk & Type, Voice Navigation, Dictionary, Virtual Keyboard, Accessibility Profiles, Sign language Libras (Brazilian Portuguese) Custom Widget Color, Icon size, Position, Talk & Type, GA4 Tracking and custom accessibility statement link are some of the top features.
-   
-Our AI automatically remediates images Alternative text and uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
+All in One Accessibility AI free Widget Supports limited 23 features only and includes 140 Languages. 
    
 It improves website ADA compliance and browser experience for ADA, WCAG 2.0, 2.1 & 2.2, Section 508, California Unruh Act, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.
    
 Follows the best industry security, SEO practices and standards ISO 9001:2015 & ISO 27001:2013 and complies with GDPR, COPPA regulations. Member of W3C and International Association of Accessibility Professionals (IAAP). It is a flexible & lightweight widget that can be changed according to law and reduces the risk of time-consuming accessibility lawsuits.
 
-Following features can be added as an addon:
-- PDF/Document Remediation
-- Modify Accessibility Menu
-- White Label and Custom Branding
-- Live Website Translations
-- VPAT / ACR Report
-- Manual Accessibility Audit
+For more details/features, Please visit [All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility)
 
-For more details/features, Please visit [All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility).
+Unlock over 70 features with the All in One Accessibility Widget through a paid subscription. See the detailed comparison of Paid vs. Free features [here](https://www.skynettechnologies.com/all-in-one-accessibility/features).
+
+We provide a 10-day free trial. Get started [here](https://ada.skynettechnologies.us/trial-subscription?utm_source=all-in-one-accessibility&utm_medium=landing-page&utm_campaign=trial-subscription).
+
 
 ## Installation
+
 ### Prerequisites
 - Bludit version ^3.16
 - Supported 2.0/3.16.0 Version of Bludit
@@ -26,12 +22,14 @@ For more details/features, Please visit [All in One Accessibility](https://www.s
 ### Steps
 
 ## Install Plugin
+
 You can install this plugin with following way.
 1. Download the zip file with the plugin from [git](https://github.com/skynettechnologies/bludit-allinoneaccessibility) or [store](https://plugins.bludit.com/plugin/bludit-allinoneaccessibility).
 2. Uncompress the zip file.
 3. Copy the plugin folder into the folder /bl-plugins/ on the server.
 
 ## Active and Configuration
+
 1. Go to the Admin panel, on the left sidebar go to Settings > Plugins.
 2. Look for the plugin in the list and click Activate.
 3. Go the plugin settings and configure All in One Accessibility the way you like.You can change the widget color & position. 
@@ -55,7 +53,7 @@ https://bludit.skynettechnologies.us
 
 ## Video
 
-[![All in One Accessibility](https://img.youtube.com/vi/czwC0PKIqkc/0.jpg)](https://www.youtube.com/watch?v=czwC0PKIqkc)
+[![All in One Accessibility](https://img.youtube.com/vi/I-DjgZyleeI/0.jpg)](https://www.youtube.com/watch?v=I-DjgZyleeI)
 
 ## Submit a Support Request
 
@@ -80,4 +78,7 @@ For more details, Please visit [Partnership Opportunities Page](https://www.skyn
 
 ## Credits
 
-This plugin is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
+This addon is developed and maintained by [Skynet Technologies USA LLC](https://www.skynettechnologies.com)
+
+## Current Maintainers
+- [Skynet Technologies USA LLC](https://github.com/skynettechnologies)
